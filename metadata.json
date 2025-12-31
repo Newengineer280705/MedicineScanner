@@ -1,0 +1,7 @@
+{
+  "name": "MediScanner",
+  "description": "An elderly-friendly AI medical assistant that identifies medicines from images and explains their usage in simple terms.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
